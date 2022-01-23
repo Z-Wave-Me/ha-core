@@ -11,4 +11,5 @@ ZWAVE_PLATFORMS = [
 
 PLATFORMS = [
     Platform.NUMBER,
+    Platform.SENSOR
 ]
