@@ -7,6 +7,7 @@ DOMAIN = "zwave_me"
 
 ZWAVE_PLATFORMS = [
     "switchMultilevel",
+    "sensorMultilevel",
 ]
 
 PLATFORMS = [
