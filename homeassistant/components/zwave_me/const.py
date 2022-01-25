@@ -5,10 +5,6 @@ from homeassistant.const import Platform
 # Base component constants
 DOMAIN = "zwave_me"
 
-ZWAVE_PLATFORMS = [
-    "switchMultilevel",
-]
+ZWAVE_PLATFORMS = ["switchMultilevel", "switchRGB", "switchRGBW"]
 
-PLATFORMS = [
-    Platform.NUMBER,
-]
+PLATFORMS = [Platform.NUMBER, Platform.LIGHT]
