@@ -11,3 +11,5 @@ The Z-Wave.Me Z-Way integration provides support of the Z-Way controller softwar
 - [Wiren Board](https://z-wave.me/products/wb) Z-Wave shield
 
 Feel free to commit to the Z-Wave.Me Z-Way integration!
+
+**Please make pull requests to the dev branch only!**
